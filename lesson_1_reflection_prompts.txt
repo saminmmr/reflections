@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+
+    It narrowed down the lines to look at automatically - no need for manually 
+	searching through hundreds of lines of code.
+
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+    You can quickly see what has been modified/where bugs/typos were introduced 
+	and correct them accordingly.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You can specify exactly when you need a version to be created - you have greater control
+	on commits.
+	Autosave could create many versions of saves that have irrelevant changes. 
+	Git CON: It's up to you to remember to commit a change.
+	Gir PRO: Can access history offline.
+	Git PRO: You can add meaningful messages to commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows for users to work on multiple files in repo and commit these in one go. 
+	Files that are connected to the working file can also be tracked.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log can let you know the changes made within the file, as well as who committed
+	those changes. 
+	Need to have included a short message of what was changed.
+	Git diff can be used to compare git "ids" - differences between commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You will always have a previous "stable" build that you could always comapre/revert back to.
+	Less likely to break the entire project!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Everything!
+	Creating code and checking for bugs on existing projects.
+
