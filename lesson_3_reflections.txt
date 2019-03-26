@@ -5,4 +5,12 @@ Why might you want to always pull changes manually rather than having Git automa
 You want to be in control of when the local repository should be cloned/overwritten
 Remote repo may not be a "working" version of the code
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is a "clone" done on the github servers
+A clone is done between github<->local repository or local<->local
+A branch is a new local repo taken from the local master
+Fork would be used when "cloning" an existing repo on github - or to credit the original creator of repo
+Clone is used to make a local copy from github or between users
+Branch is used when working on various aspects of same project or in collaboration with others
+
 
