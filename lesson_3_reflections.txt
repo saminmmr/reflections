@@ -22,4 +22,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Using a shared folder - but 2 users cannot use the same file
 Dropbox - it would create conflicts
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When other users are collaborating on the same project/master
+You are able to track changes
