@@ -18,4 +18,8 @@ No internet required
 You can merge offline
 You have a "point in time" that you can easily refer to
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using a shared folder - but 2 users cannot use the same file
+Dropbox - it would create conflicts
+
 
